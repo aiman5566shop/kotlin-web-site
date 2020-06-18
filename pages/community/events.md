@@ -12,12 +12,16 @@ title: Events
 
 ![Kotlin Nights]({{ url_for('asset', path='images/community/kotlin-nights-banner.svg') }})
 
+* **28K** of attendees
+* **350** events
+* **86** countries
+ {:.community-numbers-right}
+ 
+Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologies.  At JetBrains we've organised a few events: [Kotlin Night San Francisco](https://blog.jetbrains.com/kotlin/2016/06/kotlin-night-recordings/) and [Kotlin Night London](https://blog.jetbrains.com/kotlin/2016/11/kotlin-night-in-london-recordings/).
 
 * [Support Guidelines](/community/kotlin-nights/guidelines.html)
 * [Branding materials](/community/kotlin-nights/branding.html)
  {:.community-list-right}
- 
-Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologies.  At JetBrains we've organised a few events: [Kotlin Night San Francisco](https://blog.jetbrains.com/kotlin/2016/06/kotlin-night-recordings/) and [Kotlin Night London](https://blog.jetbrains.com/kotlin/2016/11/kotlin-night-in-london-recordings/).
 
 The community however is asking for more Kotlin Nights and are willing to organise these themselves. Here you would find guidelines and some hints on putting things together.
  
@@ -44,6 +48,6 @@ Have a question? [Contact us]()
 * **28K** of attendees
 * **350** events
 * **86** countries
- {:.community-numbers-right.community-numbers-right_strong}
+ {:.community-numbers-right}
 
 This is a series of community-led events, where you can learn the essentials and best practices of Kotlin in Android, Google Cloud Platform, and multi-platform development

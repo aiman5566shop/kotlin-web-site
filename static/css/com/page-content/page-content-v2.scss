@@ -3,12 +3,15 @@
 @import '../_bits/_header';
 
 a {
-    color: #6B70FC;
     text-decoration: none;
-}
 
-a:hover {
-    text-decoration: underline;
+    &, &:hover {
+        color: #6B70FC;
+    }
+
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 .page-content {

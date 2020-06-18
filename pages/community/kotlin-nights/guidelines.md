@@ -1,10 +1,8 @@
 ---
 type: doc
-layout: community
+layout: events
 title: Guidelines
 ---
-
-[All events](/community/events.html)
 
 ## Guidelines
 
