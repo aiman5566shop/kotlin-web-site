@@ -34,13 +34,13 @@ The community however is asking for more Kotlin Nights and are willing to organi
  
 KotlinConf Global is a series of meetups organized by the community to watch and discuss the keynote and sessions from KotlinConf 2019. Find an event near you on the map, and join in with the community.
 
-Have a question? [Contact us]()
+Have a question? [Contact us](mailto:kug@jetbrains.com)
 {:.community-attention-info}
 
 
 ## Kotlin/Everywhere
 
-[Event page](){:.external-link}
+[Event page](http://everywhere.kotlinlang.org){:.external-link}
 
 ![Kotlin Nights]({{ url_for('asset', path='images/community/kotlin-everywere-banner.svg') }})
 
