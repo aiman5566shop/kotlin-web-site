@@ -6,9 +6,9 @@ title: Events
 
 # Everybody to the party 
 
-## Kotlin Nights
+[Host event](https://surveys.jetbrains.com/s3/1eca96c71ee7){:.typo-float-right.kto-button.kto-button_size_m.kto-button_mode_outline}
 
-[Host event](https://surveys.jetbrains.com/s3/1eca96c71ee7){:.kto-button.kto-button_size_m.kto-button_mode_outline}
+## Kotlin Nights
 
 ![Kotlin Nights]({{ url_for('asset', path='images/community/kotlin-nights-banner.svg') }})
 

@@ -8,7 +8,7 @@ title: Guidelines
 
 JetBrains provides branding and materials for Kotlin Night events. Our team will prepare digital assets for event promotion and ship your merchandise pack, which contains stickers and t-shirts. Check out what we have to make your Kotlin Night fun!
 
-[Download all]({{ url_for('asset', path='k-night_files.zip') }}){:.kto-button.kto-button_size_m.kto-button_mode_outline}
+[Download all]({{ url_for('asset', path='k-night_files.zip') }}){:.typo-float-right.kto-button.kto-button_size_m.kto-button_mode_outline}
 
 ## Social media
 
